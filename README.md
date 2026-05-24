@@ -1,4 +1,4 @@
-# P1: Sales Pipeline Analysis
+# P1: Sales Pipeline Analysis (Incomplete)
 ## Overview
 Project 1 (P1) follows and analyzes a fictional B2B sales pipeline from acquiring leads & opportunities to closed-won and closed-lost deals. The workflow includes:
 - A Python cleaning script that standardizes four raw CSV datasets retrieved from Maven Analytics' "data playground"
@@ -13,6 +13,9 @@ This repository aims to reflect a real-world analytics workflow, emphasizing rep
 Pandas library
 
 NumPy library
+
+### Matplotlib/Seaborn
+(For exploratory data analysis)
 
 ### SQL
 PostgreSQL
@@ -35,12 +38,10 @@ data/
 
 src/
 - clean_data.py
-- sql_queries.sql
 
 notebooks/
 - 01_data_cleaning.ipynb
 - 02_exploration.ipynb
-- 03_sql_analysis.ipynb
 
 sql/
 - schema.sql
@@ -49,8 +50,6 @@ sql/
 - analysis_queries.sql
 
 outputs/
-- charts/
-- tables/
 - dashboard_screenshots/
 
 README.md
