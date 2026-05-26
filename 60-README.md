@@ -61,9 +61,9 @@ DBeaver (for environment)
 - 53-dashboard_screenshots/
 - 54-reports/
 
-60-README.md
+README.md
 
-70-requirements.txt
+requirements.txt
 
 ## Data Cleaning Pipeline
 
